@@ -1,0 +1,23 @@
+baseURL = ""
+languageCode = 'en-us'
+title = 'HUGO'
+
+publishDir = "docs"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+page = ["HTML", "RSS", "PRINT"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+    themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon","blue","green","red" ]
+    disableSearch = false
+    alwaysopen=false
+    ordersectionsby = "title"
+    collapsibleMenu = true
+
+
