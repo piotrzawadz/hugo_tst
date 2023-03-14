@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://piotrzawadz.github.io/dbateam/databases/database/attachement/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/attachement/index.html</loc>
     <lastmod>2023-03-08T11:46:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/dbateam/databases/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/index.html</loc>
     <lastmod>2023-03-08T11:46:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/dbateam/databases/database/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/index.html</loc>
     <lastmod>2023-03-08T11:46:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/dbateam/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/dbateam/index.html</loc>
     <lastmod>2023-03-08T11:46:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/index.html</loc>
     <lastmod>2023-03-08T11:46:39+01:00</lastmod>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/categories/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://piotrzawadz.github.io/tags/index.html</loc>
+    <loc>https://piotrzawadz.github.io/hugo_tst/tags/index.html</loc>
   </url>
 </urlset>
