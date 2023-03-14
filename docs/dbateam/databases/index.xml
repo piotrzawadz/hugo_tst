@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Databases on HUGO</title>
-    <link>/dbateam/databases/index.html</link>
+    <link>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/index.html</link>
     <description>Recent content in Databases on HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 11:46:39 +0100</lastBuildDate><atom:link href="/dbateam/databases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 11:46:39 +0100</lastBuildDate><atom:link href="https://piotrzawadz.github.io/hugo_tst/dbateam/databases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Db db</title>
-      <link>/dbateam/databases/database/index.html</link>
+      <link>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/index.html</link>
       <pubDate>Wed, 08 Mar 2023 11:46:39 +0100</pubDate>
-      <guid>/dbateam/databases/database/index.html</guid>
+      <guid>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/index.html</guid>
       <description></description>
     </item>
   </channel>
