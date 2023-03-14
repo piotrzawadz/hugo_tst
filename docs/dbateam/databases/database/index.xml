@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Db db on HUGO</title>
-    <link>hugo_tst/dbateam/databases/database/index.html</link>
+    <link>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/index.html</link>
     <description>Recent content in Db db on HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 11:46:39 +0100</lastBuildDate><atom:link href="hugo_tst/dbateam/databases/database/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 11:46:39 +0100</lastBuildDate><atom:link href="https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attachement - test</title>
-      <link>hugo_tst/dbateam/databases/database/attachement/index.html</link>
+      <link>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/attachement/index.html</link>
       <pubDate>Wed, 08 Mar 2023 11:46:39 +0100</pubDate>
-      <guid>hugo_tst/dbateam/databases/database/attachement/index.html</guid>
+      <guid>https://piotrzawadz.github.io/hugo_tst/dbateam/databases/database/attachement/index.html</guid>
       <description>File to be presented: abcder Related files doc.txt (10 B) plik_tst.txt (12 B) plik.txt (22 B) Related files doc.txt (10 B) plik_tst.txt (12 B) plik.txt (22 B) graph LR; If --&amp;gt; Then Then --&amp;gt; Else %%{init:{&amp;#34;fontFamily&amp;#34;:&amp;#34;monospace&amp;#34;, &amp;#34;sequence&amp;#34;:{&amp;#34;showSequenceNumbers&amp;#34;:true}}}%% sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts! John--&amp;gt;&amp;gt;Alice: Great! John-&amp;gt;&amp;gt;Bob: How about you? Bob--&amp;gt;&amp;gt;John: Jolly good! </description>
     </item>
   </channel>

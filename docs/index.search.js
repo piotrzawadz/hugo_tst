@@ -4,48 +4,48 @@ var relearn_search_index = [
     "description": "",
     "tags": null,
     "title": "Attachement - test",
-    "uri": "hugo_tst/dbateam/databases/database/attachement/index.html"
+    "uri": "/hugo_tst/dbateam/databases/database/attachement/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Databases",
-    "uri": "hugo_tst/dbateam/databases/index.html"
+    "uri": "/hugo_tst/dbateam/databases/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Db db",
-    "uri": "hugo_tst/dbateam/databases/database/index.html"
+    "uri": "/hugo_tst/dbateam/databases/database/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "DBA Databases",
-    "uri": "hugo_tst/dbateam/index.html"
+    "uri": "/hugo_tst/dbateam/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "HUGO",
-    "uri": "hugo_tst/index.html"
+    "uri": "/hugo_tst/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Categories",
-    "uri": "hugo_tst/categories/index.html"
+    "uri": "/hugo_tst/categories/index.html"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "Tags",
-    "uri": "hugo_tst/tags/index.html"
+    "uri": "/hugo_tst/tags/index.html"
   }
 ]
