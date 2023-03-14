@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://piotrzawadz.github.io/"
 languageCode = 'en-us'
 title = 'HUGO'
 
